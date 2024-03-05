@@ -1,0 +1,3 @@
+To see this model in action, go through the Supervised Ai official Postman 
+
+Find live usage here : https://www.postman.com/supervisedai/workspace/getting-started/request/30329429-62b43075-dfcd-431a-9a4f-625275116bcc?ctx=documentation
